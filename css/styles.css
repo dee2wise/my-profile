@@ -1,0 +1,197 @@
+/*--------------------- STYLES FOR ELEMENT TAGS-------------------------*/
+body {
+    margin: 0px;
+    text-align: center;
+    font-family:"Merriweather",serif;
+   
+}
+h1{
+    font-size: 562.5%;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento";
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2{
+    font-family: "Montserrat";
+    font-size:2.5rem ;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3 {
+    font-family: "Montserrat";
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+hr {
+    color: #EAF6F6;
+}
+
+
+
+
+
+/* -----------------------STYLES FOR CLASS TAGS-------------------------*/
+.top-section{
+    background-color: #E4F6F6;
+    width: 100%;
+    height: 500px;
+    margin: 0;
+    position:relative;
+    padding-top: 100px;
+}
+
+.Darryl {
+    color: #66BFBF;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.intro {
+    color: #40514E;
+}
+
+.pic-of-me {
+    margin-top: 400px;
+    border-radius: 100%;  
+    position: relative;
+    top: 200px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+.hello{
+
+    margin-top: 200px;
+}
+
+
+.middle-section{
+    
+  
+  
+}
+
+.bottom-section{
+  background-color: #66BFBF;
+  line-height: 2; 
+    
+}
+.bottom-cloud{
+   position:absolute; 
+   left:300px;
+}
+
+.footer-link {
+    color: #11999E;
+}
+.top-cloud{
+    position: absolute;
+    right:400px;
+    top:40px;
+}
+
+.my-skills {
+    color:#66BFBF
+
+    
+}
+
+.skill-row1 {
+    margin:100px auto 100px auto ;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.chili-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.chili {
+    color: #11999E;
+}
+
+
+.skill-row2 {
+    margin:100px auto 100px auto ;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+
+.contact-me {
+    line-height: 2;
+    margin-bottom: 60px;
+    margin-top: 40px;
+}
+
+.bottom-container {
+    line-height: 2;
+    background-color: #11cdd4;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    height: 200px;
+    padding-top: 40px;
+
+}
+
+.copyright {
+    color: darkslategray;
+    padding-top: 40px;
+   
+}
+
+.footer-link {
+    
+    padding: 20px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 17px;
+    padding: 12px 19px 10px 20px;
+    border: solid #1f 2px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+
+
+/*------------------------STYLES FOR ID TAGS----------------------------*/
